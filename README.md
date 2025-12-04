@@ -86,7 +86,7 @@
 > • [Notion resume](https://grey-cloth-861.notion.site/William-Jaunius-Baltus-e4729f9c870f4ab4a0421ca461e07b57?pvs=74)
 > 
 <div>
-    <img src="./terminal.gif" alt="About Me Terminal GIF"/>
+    <img src="./terminal.gif" alt="About Me Terminal GIF"/> <!--- you can make this here: https://www.terminalgif.com/ -->
 </div> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer" alt="footer"/>
