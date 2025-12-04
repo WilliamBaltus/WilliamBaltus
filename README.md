@@ -38,7 +38,7 @@
 
 ---
 
-#### 🧬 DataBase / Search
+#### 📊 DataBase / Search
 
 [![AI & Data](https://skillicons.dev/icons?i=postgres,mongodb,mysql,elasticsearch,rabbitmq)](https://skillicons.dev)
 
@@ -47,9 +47,9 @@
 
 #### 🌐 Web Development
 
-[![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,js,ts)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,remix)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,flask,django,remix)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,flask,django)](https://skillicons.dev)
 
 ---
 
@@ -58,7 +58,7 @@
 [![Cloud & DevOps](https://skillicons.dev/icons?i=docker,aws,gcp,firebase,heroku,openshift)](https://skillicons.dev)
 
 ---
-##### 🧱 AI + Frameworks
+##### 🤖 AI + Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-0B3B61?style=for-the-badge" alt="LangChain"/>
