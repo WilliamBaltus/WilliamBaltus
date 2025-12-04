@@ -42,19 +42,8 @@
 
 [![AI & Data](https://skillicons.dev/icons?i=postgres,mongodb,mysql,elasticsearch,rabbitmq)](https://skillicons.dev)
 
-
-##### 🧱 AI + Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-0B3B61?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-312E81?style=for-the-badge" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/Haystack-065F46?style=for-the-badge" alt="Haystack"/>
-  <img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" alt="MCP"/>
-  <img src="https://img.shields.io/badge/A2A-7C3AED?style=for-the-badge" alt="A2A"/>
-</p>
-
 ---
+
 
 #### 🌐 Web Development
 
@@ -69,7 +58,18 @@
 [![Cloud & DevOps](https://skillicons.dev/icons?i=docker,aws,gcp,firebase,heroku,openshift)](https://skillicons.dev)
 
 ---
+##### 🧱 AI + Frameworks
 
+<p>
+  <img src="https://img.shields.io/badge/LangChain-0B3B61?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-312E81?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Haystack-065F46?style=for-the-badge" alt="Haystack"/>
+  <img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/A2A-7C3AED?style=for-the-badge" alt="A2A"/>
+</p>
+
+---
 
 ### 🤝 Connect with Me
 
