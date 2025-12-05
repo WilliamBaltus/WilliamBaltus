@@ -49,7 +49,7 @@
 
 [![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,remix)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,flask,django)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,flask,django,spring)](https://skillicons.dev)
 
 ---
 
